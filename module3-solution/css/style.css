@@ -1,0 +1,39 @@
+body {
+	font: fantasy;
+}
+
+.navbar-brand p {
+	color: #000000;
+	margin-top: 0px;
+	margin-left: 50px;
+}
+
+#header-nav {
+	background-color: #00FF00;
+	border-radius: 0;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+	color: white;
+}
+
+#nav-list a {
+	text-align: center;
+	color: #00FF00;
+}
+#nav-list a:hover {
+	background-color: white;
+}
+
+#nav-list {
+	background-color: gray;
+}
+.row p {
+	padding: 15px;
+}
+
+.eacho {
+	background-color: #AFEEEE;
+	height: 700px;
+	}
